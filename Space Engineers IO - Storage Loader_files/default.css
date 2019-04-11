@@ -1,0 +1,21 @@
+body {
+  position: relative;
+}
+.navbar-brand > img {
+  display: inline;
+  height: 100%;
+  margin-top: -4px;
+}
+.page-header.first {
+  margin-top: 0;
+}
+#myAffix.affix {
+  top: 21px;
+  width: 262.5px;
+}
+p {
+  margin-bottom: 1.5em;
+}
+h1.page-header {
+  border-bottom: solid 1px;
+}
